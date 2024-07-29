@@ -1,20 +1,30 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "R_kgDOMKYT7w",
+      "name": "E-KYC-",
+      "createdAt": "2024-06-17T08:15:52Z",
+      "url": "https://github.com/abhishekiiitbh2903/E-KYC-",
+      "description": "Welcome to the E-KYC project! This project leverages cutting-edge techniques in computer vision, natural language processing, convolutional neural networks (CNNs), and long short-term memory networks (LSTMs) to facilitate automatic Know Your Customer (KYC) processes.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOLshWZg",
+      "name": "BRAIN_TUMOR",
+      "createdAt": "2024-04-10T18:39:09Z",
+      "url": "https://github.com/abhishekiiitbh2903/BRAIN_TUMOR",
+      "description": "Brain_Tumor Detection Using CNN . Just upload MRI Scan of a brain and get to know about whether it is healthy or has tumor ",
+      "isFork": false,
+      "languages": [
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
         {
           "name": "Jupyter Notebook",
@@ -23,11 +33,11 @@
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "R_kgDOLrc57w",
+      "name": "FASHION-RECOMMENDATION-SYSTEM",
+      "createdAt": "2024-04-08T14:14:31Z",
+      "url": "https://github.com/abhishekiiitbh2903/FASHION-RECOMMENDATION-SYSTEM",
+      "description": "This project implements a Fashion Recommender System using TensorFlow and Keras. The system utilizes a pre-trained ResNet50 model for feature extraction and employs transfer learning to adapt it for fashion recommendation tasks.",
       "isFork": false,
       "languages": [
         {
@@ -37,11 +47,33 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "R_kgDOLa9kZw",
+      "name": "MERN-BLOG",
+      "createdAt": "2024-03-03T11:04:34Z",
+      "url": "https://github.com/abhishekiiitbh2903/MERN-BLOG",
+      "description": "Welcome to the MERN Blog Web App, a full-stack web application for reading and sharing blogs created using the MERN (MongoDB, Express.js, React.js, Node.js) stack.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJ7G-GQ",
+      "name": "The_Cinematic_Encyclopedia",
+      "createdAt": "2023-07-13T11:39:40Z",
+      "url": "https://github.com/abhishekiiitbh2903/The_Cinematic_Encyclopedia",
+      "description": "This project incorporates MERN stack and offers an appealing UI design and is fully packed with modern designing principles including pagination and related stuffs",
       "isFork": false,
       "languages": [
         {
@@ -55,64 +87,24 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "R_kgDOMGK-5g",
+      "name": "E-STATE-MERN-STACK",
+      "createdAt": "2024-06-07T09:28:08Z",
+      "url": "https://github.com/abhishekiiitbh2903/E-STATE-MERN-STACK",
+      "description": "MERN Stack Real Estate is a full-featured web application designed to facilitate the buying and selling of properties. Utilizing the powerful MERN stack (MongoDB, Express.js, React, and Node.js), this platform offers a seamless and secure experience for users to list their properties for sale and contact property owners .",
       "isFork": false,
       "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
         },
         {
           "name": "CSS",

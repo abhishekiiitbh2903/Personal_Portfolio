@@ -9,6 +9,10 @@ const openSource = {
   githubUserName: process.env.GITHUB_USERNAME,
 };
 
+// console.log(process.env.GITHUB_TOKEN);
+// console.log(process.env.GITHUB_USERNAME);
+
+
 const query_pr = {
   query: `
 	query {
