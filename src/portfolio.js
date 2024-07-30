@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Abhishek Singh Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://meabhirathore.netlify.app/",
   },
 };
 
@@ -31,15 +31,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/abhishekiiitbh2903",
@@ -136,7 +127,6 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
@@ -220,16 +210,9 @@ const skills = {
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Setting up streaming jobs from DB to Server or vice-versa on AWS",
       ],
       softwareSkills: [
-        // {
-        //   skillName: "GCP",
-        //   fontAwesomeClassname: "simple-icons:googlecloud",
-        //   style: {
-        //     color: "#4285F4",
-        //   },
-        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -237,13 +220,6 @@ const skills = {
             color: "#FF9900",
           },
         },
-        // {
-        //   skillName: "Azure",
-        //   fontAwesomeClassname: "simple-icons:microsoftazure",
-        //   style: {
-        //     color: "#0089D6",
-        //   },
-        // },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -251,13 +227,6 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        // {
-        //   skillName: "PostgreSQL",
-        //   fontAwesomeClassname: "simple-icons:postgresql",
-        //   style: {
-        //     color: "#336791",
-        //   },
-        // },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -272,13 +241,6 @@ const skills = {
             color: "#1488C6",
           },
         },
-        // {
-        //   skillName: "Kubernetes",
-        //   fontAwesomeClassname: "simple-icons:kubernetes",
-        //   style: {
-        //     color: "#326CE5",
-        //   },
-        // },
       ],
     },
     // {
@@ -409,7 +371,7 @@ const degrees = {
       alt_name: "LFH NAGWA",
       duration: "2019 - 2021",
       descriptions: [
-        "⚡ I got selected into INTERNATIONAL MATHS OLYMPIAD on a regional level and outperformed over 2lakh+ participants.",
+        "⚡Outperformed over 2lakh+ participants to become an INTERNATIONAL MATHS OLYMPIAD GOLD MEDALIST (REGIONAL LEVEL)",
       ],
       website_link: "https://littleflowerhouse.com/",
     },
